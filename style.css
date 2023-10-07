@@ -1,0 +1,17 @@
+body {
+ background-color: rgb(94, 128, 172);
+ text-align: center;
+
+}
+.color{
+ background-color: rgb(54, 54, 54);
+ color: white;
+}
+.head{
+   padding-bottom: 3%;
+   padding-top: 5%;
+   font-size: 6ch;
+}
+.btn{
+    size: 4ch;
+}
